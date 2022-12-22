@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background: #ffffff;
+}
+
+.cont1 {
+  left: 0px;
+  top: 0px;
+  background: linear-gradient(90deg, #00C65E 26.28%, rgba(0, 198, 94, 0) 101.66%);
+}
+
+/*# sourceMappingURL=style.css.map */
